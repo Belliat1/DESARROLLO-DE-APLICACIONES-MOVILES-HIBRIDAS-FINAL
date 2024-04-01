@@ -1,0 +1,8 @@
+{
+  "name": "Ucompensar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "625e29ac"
+}
